@@ -1,0 +1,14 @@
+{
+    "nombre": "Calculadora de IMC",
+    "descripcion": "Una calculadora de Índice de Masa Corporal (IMC) que permite a los usuarios calcular su IMC para evaluar su salud.",
+    "fecha_creacion": "2023-09-10",
+    "version": "1.0",
+    "fecha_ultima_actualizacion": "2023-09-10",
+    "herramientas_utilizadas": ["HTML", "CSS", "JavaScript", "Tailwind CSS"],
+    "creador": "WhiteAssassins",
+    "lenguaje": "JavaScript",
+    "categorias": ["Salud", "Herramientas"],
+    "etiquetas": ["Web", "Calculadora", "IMC", "HTML5", "CSS3", "JavaScript"],
+    "licencia": "Licencia MIT",
+    "estado": "Completado"
+}
